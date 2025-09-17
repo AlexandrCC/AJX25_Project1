@@ -1,0 +1,30 @@
+Altium Designer Pick and Place Locations
+C:\Users\ÑÑ\AppData\Local\Temp\Releases\Snapshot\1\Assembly\Pick Place\Pick Place for AJAX_PR1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       13.09.25
+Time:       04:55
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Center-X(mil) Center-Y(mil) Comment         Description                                                                                                                                  Designator Footprint                     Layer    Rotation 
+787.402       472.441       AMS1117-3.3     "LDO Voltage Regulators 1A, 3.3V"                                                                                                            U3         FP-AMS1117-IPC_C              TopLayer 180      
+1082.677      984.252       MPU-6050        "3-Axis Gyroscope, Accelerometer and a Digital Motion Processor(TM) (DMP), 2.375 to 3.46 V, -40 to 85 degC, 24-Pin QFN, RoHS, Tape and Reel" U2         IS-QFN-24_V                   TopLayer 90       
+442.913       994.095       STM8S103F3P6    "STM8 series Microcontroller IC 8-Bit 16MHz 8KB (8K x 8) FLASH 20-TSSOP"                                                                     U1         SOP65P640X120-20N             TopLayer 0        
+698.819       816.929       "4700 ?"        "RES SMD 4.7K OHM 1% 1/4W 1206"                                                                                                              R22        FP-RC1206-0_65-IPC_B          TopLayer 270      
+826.772       875.984       "4700 ?"        "RES SMD 4.7K OHM 1% 1/4W 1206"                                                                                                              R21        FP-RC1206-0_65-IPC_B          TopLayer 270      
+286.221       413.386       TSW-104-08-G-S  "0.025" SQ Post Header, Through-hole, Vertical, -55 to 125 degC, 2.54 mm Pitch, 4-Pin, Male, RoHS"                                           P1         SMTC-TSW-104-08-X-S           TopLayer 0        
+787.402       1452.854      UJC-HP-3-SMT-TR ""                                                                                                                                           J2         CUI_UJC-HP-3-SMT-TR           TopLayer 180      
+787.402       121.949       UJC-HP-3-SMT-TR ""                                                                                                                                           J1         CUI_UJC-HP-3-SMT-TR           TopLayer 0        
+1338.583      472.441       100uF           "Aluminum Electrolytic Capacitor, 100 uF, +/- 20%, 25 V, 2-Pin SMD (Size Code D8), -55 to 105 degC, RoHS, Tape and Reel"                     C41        PNSC-FK-V-D8_V                TopLayer 0        
+875.984       669.291       10uF            "Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 10uF, X5R, 15%, 20%, 6.3V"                                                    C32        FP-GRM188-0_1-e0_2_0_55-IPC_A TopLayer 180      
+1023.622      442.913       22uF            "Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 22uF, X5R, 15%, 20%, 10V"                                                     C31        FP-GRM188-0_2-IPC_C           TopLayer 270      
+1240.158      944.882       10nF            "Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 10000pF, X7R, 15%, 10%, 50V"                                                  C24        FP-GRM155-0_05-IPC_C          TopLayer 90       
+895.669       1092.520      "2.2 uF"        "Cap Ceramic 2.2uF 50V X7R 10% Pad SMD 1210 +125°C Automotive T/R"                                                                           C23        FP-CGA6P-IPC_C                TopLayer 270      
+1117.941      1131.890      0.1uF           "Chip Multilayer Ceramic Capacitors for General Purpose, 0201, 0.10uF, X6S, 22%, 10%, 4V"                                                    C22        FP-GRM033-0_03-IPC_A          TopLayer 180      
+374.016       767.716       10nF            "Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 10000pF, X7R, 15%, 10%, 50V"                                                  C11        FP-GRM155-0_05-IPC_C          TopLayer 180      
+1240.158      1043.307      0.10uF          "Chip Multilayer Ceramic Capacitors for General Purpose, 0201, 0.10uF, X6S, 22%, 10%, 4V"                                                    C1         FP-GRM033-0_03-IPC_A          TopLayer 270      
+147.638       954.724       1uF             "AgPd Termination Conductive Glue Mounting Chip Multilayer Ceramic Capacitors for Automotive 1206 Package, X8R 15% 16V 1uF 20%"              C1.2       FP-GCG31C-0_3-IPC_A           TopLayer 90       

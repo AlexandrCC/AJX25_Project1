@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=NRST Pin=P1-1
-Removed Pin From Net: NetName=VCC_3.3V Pin=P1-3
-Added Pin To Net: NetName=VCC_3.3V Pin=P1-1
-Added Pin To Net: NetName=NRST Pin=P1-3

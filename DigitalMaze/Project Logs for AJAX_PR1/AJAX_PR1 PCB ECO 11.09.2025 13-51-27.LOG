@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=NRST Pin=P1-1
-Removed Pin From Net: NetName=SWIM Pin=P1-2
-Added Pin To Net: NetName=SWIM Pin=P1-1
-Added Pin To Net: NetName=NRST Pin=P1-2
