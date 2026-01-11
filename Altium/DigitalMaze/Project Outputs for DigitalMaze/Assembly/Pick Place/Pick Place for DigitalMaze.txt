@@ -1,0 +1,30 @@
+Altium Designer Pick and Place Locations
+C:\Users\ÑÑ\AppData\Local\Temp\Releases\Snapshot\1\Assembly\Pick Place\Pick Place for DigitalMaze.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       11.01.26
+Time:       02:08
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Center-X(mil) Center-Y(mil) Comment         Description                                                                                                                                  Designator Footprint                    Layer    Rotation 
+649.606       767.716       10k             "RES SMD 10K OHM 0.1% 1/4W 1206"                                                                                                             R22        FP-RT1206-MFG                TopLayer 90       
+826.772       846.457       "10k "          "RES SMD 10K OHM 0.1% 1/4W 1206"                                                                                                             R21        FP-RT1206-MFG                TopLayer 90       
+275.591       767.717       10nF            "CAP 10nF 25V ±10% 1206 (3216 Metric) Thickness 1.45mm SMD"                                                                                  C1         CAPC1206(3216)150_N          TopLayer 0        
+787.402       511.811       AMS1117-3.3     "LDO Voltage Regulators 1A, 3.3V"                                                                                                            U3         FP-AMS1117-IPC_C             TopLayer 90       
+246.850       413.386       TSW-104-08-G-S  "0.025" SQ Post Header, Through-hole, Vertical, -55 to 125 degC, 2.54 mm Pitch, 4-Pin, Male, RoHS"                                           P1         SMTC-TSW-104-08-X-S          TopLayer 0        
+1358.268      492.126       100uF           "Aluminum Electrolytic Capacitor, 100 uF, +/- 20%, 25 V, 2-Pin SMD (Size Code D8), -55 to 105 degC, RoHS, Tape and Reel"                     C9         PNSC-FK-V-D8_V               TopLayer 0        
+984.252       511.811       "10uF "         "CAP 10uF 25V ±20% 1206 (3216 Metric) Thickness 1.9mm SMD"                                                                                   C8         CAPC1206(3216)190_N          TopLayer 90       
+570.866       551.181       22uF            "Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 22uF, X5R, 15%, 20%, 25V"                                                     C7         FP-GRM21B-0_2-e0_2_0_7-MFG   TopLayer 270      
+1062.992      1161.417      100nF           "C1206 0.10 ?F U2J 20.00% 50 V"                                                                                                              C6         FP-C1206C-EB-MFG             TopLayer 0        
+1220.472      826.772       10nF            "CAP 10nF 25V ±10% 1206 (3216 Metric) Thickness 1.45mm SMD"                                                                                  C5         CAPC1206(3216)150_N          TopLayer 90       
+1220.473      1023.622      100nF           "C1206 0.10 ?F U2J 20.00% 50 V"                                                                                                              C4         FP-C1206C-EB-MFG             TopLayer 90       
+826.772       1062.992      2.2uF           None                                                                                                                                         C3         FP-1206-L_3_2_0_15-W_1_6-MFG TopLayer 90       
+216.535       944.882       1uF             "Cap Ceramic 1uF 25V X7R 10% Pad SMD 1206 +125°C Automotive T/R"                                                                             C2         FP-CGA5L-0_3-0_1-MFG         TopLayer 90       
+1023.622      964.567       MPU-6050        "3-Axis Gyroscope, Accelerometer and a Digital Motion Processor(TM) (DMP), 2.375 to 3.46 V, -40 to 85 degC, 24-Pin QFN, RoHS, Tape and Reel" U2         IS-QFN-24_V                  TopLayer 90       
+442.913       994.095       STM8S103F3P6    "STM8 series Microcontroller IC 8-Bit 16MHz 8KB (8K x 8) FLASH 20-TSSOP"                                                                     U1         SOP65P640X120-20N            TopLayer 0        
+787.402       1452.854      UJC-HP-3-SMT-TR ""                                                                                                                                           J2         CUI_UJC-HP-3-SMT-TR          TopLayer 180      
+787.402       121.949       UJC-HP-3-SMT-TR ""                                                                                                                                           J1         CUI_UJC-HP-3-SMT-TR          TopLayer 0        

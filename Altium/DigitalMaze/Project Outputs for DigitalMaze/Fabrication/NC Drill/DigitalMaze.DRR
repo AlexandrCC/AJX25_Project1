@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DigitalMaze.PcbDoc   11.01.2026  02:08:25
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DigitalMaze-RoundHoles.TXT
+ASCII SlotHoles File : DigitalMaze-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             108       PTH        14.93inch (379.16mm)
+T2      20mil (0.5mm)                                             Slot              8         PTH        5.47inch (138.94mm)
+T3      28mil (0.711mm)                                           Round             7         PTH        1.90inch (48.31mm)
+T4      40mil (1.02mm)                                            Round             4         PTH        0.50inch (12.70mm)
+T5      79mil (2mm)                                               Round             4         PTH        3.54inch (90.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              131
+
+Total Processing Time (hh:mm:ss) : 00:00:00
