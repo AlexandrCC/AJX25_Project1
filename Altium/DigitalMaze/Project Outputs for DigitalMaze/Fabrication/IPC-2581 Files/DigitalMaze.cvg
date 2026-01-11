@@ -2945,10 +2945,6 @@
             <Location x="63.4" y="65.9" />
             <StandardPrimitiveRef id="CIRCLE_500000" />
           </LayerPad>
-          <LayerPad layerRef="Top Solder">
-            <Location x="63.4" y="65.9" />
-            <StandardPrimitiveRef id="CIRCLE_580000" />
-          </LayerPad>
           <LayerPad layerRef="Bottom Solder">
             <Location x="63.4" y="65.9" />
             <StandardPrimitiveRef id="CIRCLE_580000" />
@@ -2965,10 +2961,6 @@
           <LayerPad layerRef="Bottom Layer">
             <Location x="67.4" y="62.4" />
             <StandardPrimitiveRef id="CIRCLE_500000" />
-          </LayerPad>
-          <LayerPad layerRef="Top Solder">
-            <Location x="67.4" y="62.4" />
-            <StandardPrimitiveRef id="CIRCLE_580000" />
           </LayerPad>
           <LayerPad layerRef="Bottom Solder">
             <Location x="67.4" y="62.4" />
@@ -3029,10 +3021,6 @@
             <Location x="67.4" y="57.400002" />
             <StandardPrimitiveRef id="CIRCLE_500000" />
           </LayerPad>
-          <LayerPad layerRef="Top Solder">
-            <Location x="67.4" y="57.400002" />
-            <StandardPrimitiveRef id="CIRCLE_580000" />
-          </LayerPad>
           <LayerPad layerRef="Bottom Solder">
             <Location x="67.4" y="57.400002" />
             <StandardPrimitiveRef id="CIRCLE_580000" />
@@ -3092,10 +3080,6 @@
             <Location x="57.400002" y="63.4" />
             <StandardPrimitiveRef id="CIRCLE_500000" />
           </LayerPad>
-          <LayerPad layerRef="Top Solder">
-            <Location x="57.400002" y="63.4" />
-            <StandardPrimitiveRef id="CIRCLE_580000" />
-          </LayerPad>
           <LayerPad layerRef="Bottom Solder">
             <Location x="57.400002" y="63.4" />
             <StandardPrimitiveRef id="CIRCLE_580000" />
@@ -3112,10 +3096,6 @@
           <LayerPad layerRef="Bottom Layer">
             <Location x="41.9" y="60.400001" />
             <StandardPrimitiveRef id="CIRCLE_500000" />
-          </LayerPad>
-          <LayerPad layerRef="Top Solder">
-            <Location x="41.9" y="60.400001" />
-            <StandardPrimitiveRef id="CIRCLE_580000" />
           </LayerPad>
           <LayerPad layerRef="Bottom Solder">
             <Location x="41.9" y="60.400001" />
@@ -3134,10 +3114,6 @@
             <Location x="43.400002" y="55.9" />
             <StandardPrimitiveRef id="CIRCLE_500000" />
           </LayerPad>
-          <LayerPad layerRef="Top Solder">
-            <Location x="43.400002" y="55.9" />
-            <StandardPrimitiveRef id="CIRCLE_580000" />
-          </LayerPad>
           <LayerPad layerRef="Bottom Solder">
             <Location x="43.400002" y="55.9" />
             <StandardPrimitiveRef id="CIRCLE_580000" />
@@ -3154,10 +3130,6 @@
           <LayerPad layerRef="Bottom Layer">
             <Location x="50.9" y="47.900001" />
             <StandardPrimitiveRef id="CIRCLE_500000" />
-          </LayerPad>
-          <LayerPad layerRef="Top Solder">
-            <Location x="50.9" y="47.900001" />
-            <StandardPrimitiveRef id="CIRCLE_580000" />
           </LayerPad>
           <LayerPad layerRef="Bottom Solder">
             <Location x="50.9" y="47.900001" />
